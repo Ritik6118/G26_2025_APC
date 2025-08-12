@@ -6,7 +6,6 @@ public class Address {
 	private String State;
 	
 	Address(){
-		
 	}
 	
 	public Address(String street, String city, String state) {
@@ -38,3 +37,4 @@ public class Address {
 		return Street+"\n"+City+"\n"+State;
 	}
 }
+
