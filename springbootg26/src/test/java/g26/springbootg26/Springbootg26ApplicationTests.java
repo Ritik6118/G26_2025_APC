@@ -1,0 +1,13 @@
+package g26.springbootg26;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Springbootg26ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
